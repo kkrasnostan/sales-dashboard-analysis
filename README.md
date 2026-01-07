@@ -1,10 +1,10 @@
-# 📊 Sales Dashboard Analysis (Python)
+# Sales Dashboard Analysis (Python)
 
 This project demonstrates an end-to-end sales analysis using Python and pandas, focusing on business KPIs and performance insights.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Clean and prepare sales data
 - Calculate key business KPIs
 - Analyze product and category performance
@@ -12,7 +12,7 @@ This project demonstrates an end-to-end sales analysis using Python and pandas, 
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 - Python
 - pandas
 - matplotlib
@@ -20,7 +20,7 @@ This project demonstrates an end-to-end sales analysis using Python and pandas, 
 
 ---
 
-## 📈 Key Findings
+## Key Findings
 - **Total Revenue:** €27.5K  
 - **Top Category:** Grocery  
 - **Best-selling Products:** Espresso Beans, Olive Oil  
@@ -28,7 +28,7 @@ This project demonstrates an end-to-end sales analysis using Python and pandas, 
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 sales-dashboard-analysis/
 ├── data/
 │ └── sample_sales.csv
@@ -37,6 +37,7 @@ sales-dashboard-analysis/
 
 ---
 
-## 📌 Notes
+## Notes
 - Dataset is synthetically generated for portfolio purposes
+
 - Analysis focuses on demonstrating practical data analytics skills
